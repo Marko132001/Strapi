@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "delta_ones",
+  "info": {
+    "singularName": "delta-one",
+    "pluralName": "delta-ones",
+    "displayName": "Delta-One",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "layout": {
+      "type": "dynamiczone",
+      "components": [
+        "components.image-slider",
+        "components.text-and-video",
+        "components.title-and-text",
+        "components.video-player",
+        "components.zig-zag",
+        "components.counting-animation",
+        "components.hero-section-video"
+      ]
+    }
+  }
+}

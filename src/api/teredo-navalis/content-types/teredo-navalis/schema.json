@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "teredo_navalises",
+  "info": {
+    "singularName": "teredo-navalis",
+    "pluralName": "teredo-navalises",
+    "displayName": "Teredo-Navalis",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "layout": {
+      "type": "dynamiczone",
+      "components": [
+        "components.counting-animation",
+        "components.image-slider",
+        "components.text-and-video",
+        "components.title-and-text",
+        "components.video-player",
+        "components.zig-zag",
+        "components.hero-section-video"
+      ]
+    }
+  }
+}
